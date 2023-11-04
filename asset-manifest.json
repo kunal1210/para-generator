@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/para-generator/static/css/main.38c2a55c.css",
+    "main.js": "/para-generator/static/js/main.f0a6a840.js",
+    "index.html": "/para-generator/index.html",
+    "main.38c2a55c.css.map": "/para-generator/static/css/main.38c2a55c.css.map",
+    "main.f0a6a840.js.map": "/para-generator/static/js/main.f0a6a840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c2a55c.css",
+    "static/js/main.f0a6a840.js"
+  ]
+}
